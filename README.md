@@ -25,6 +25,8 @@ Az eszköz nem állapítja meg automatikusan az állítások igazságát. A ZIP-
 
 ## Visszajelzés és értékpróba
 
+A [Nexis Flare raj döntési naplója](RAJ_DONTESNAPLO.md) a Grok, Gemini és GPT-6 Codex szavazatát, az eltérő tanácsokat és a tényleges döntést is rögzíti.
+
 A [próbáról szóló issue-ban](https://github.com/NexisFlare/ForrasHid-Mini/issues/1) írd meg, milyen feladathoz használnád, hol akadtál el, és hogy egy későbbi, működő fizetési felületen 3 EUR értékűnek tartanád-e. Ez önkéntes vélemény, **nem vásárlás**. A kiadás ingyenes, fizetési kapu nincs beüzemelve, eladásról nincs adat. Kérlek, ne ossz meg valódi naplót, személyes vagy banki adatot.
 
 A ZIP és a célzott adatvesztési esetek ellenőrzése sikerült; széles körű mobil- és akadálymentességi teszt még nem történt. A kiadás [SHA-256 lenyomata és fájljai](https://github.com/NexisFlare/ForrasHid-Mini/releases/tag/v1.0.1) visszanézhetők.
