@@ -4,6 +4,8 @@
 
 ## Kipróbálás
 
+**[Azonnali online próba](https://nexisflare.github.io/ForrasHid-Mini/)** — telepítés nélkül, a négy fiktív mintaadattal. Mobilra igazodó felület, de a különféle mobilböngészőkön még nem volt széles teszt. A webes próba a böngésző helyi tárhelyén, ezen a webhelyen tartja a bevitt adatokat; nem szinkronizál más eszközre. Bizalmas naplóhoz az offline ZIP-et használd, és minden érdemi munka után exportálj JSON-t.
+
 A [v1.0.1 nyilvános próba](https://github.com/NexisFlare/ForrasHid-Mini/releases/tag/v1.0.1) ingyenesen letölthető. [Közvetlen ZIP](https://github.com/NexisFlare/ForrasHid-Mini/releases/download/v1.0.1/ForrasHid_Mini_v1.0.1_proba.zip).
 
 1. Csomagold ki a ZIP-et, és nyisd meg a benne lévő HTML-fájlt egy modern böngészőben.
