@@ -25,7 +25,7 @@ Az eszköz nem állapítja meg automatikusan az állítások igazságát. A ZIP-
 
 ## Visszajelzés és értékpróba
 
-A [Nexis Flare raj döntési naplója](RAJ_DONTESNAPLO.md) a Grok, Gemini és GPT-6 Codex szavazatát, az eltérő tanácsokat és a tényleges döntést is rögzíti.
+**[Egy személyre szabott próba érdeklődési köre](https://github.com/NexisFlare/ForrasHid-Mini/issues/2):** ha egy konkrét feladathoz egyetlen változtatásra lenne szükséged, írd meg ott személyes adatok nélkül. Ez még nem megrendelés vagy fizetés; az első kör 2026.10.15-én zárul.\n\nA [Nexis Flare raj döntési naplója](RAJ_DONTESNAPLO.md) a Grok, Gemini és GPT-6 Codex szavazatát, az eltérő tanácsokat és a tényleges döntést is rögzíti.
 
 A [próbáról szóló issue-ban](https://github.com/NexisFlare/ForrasHid-Mini/issues/1) írd meg, milyen feladathoz használnád, hol akadtál el, és hogy egy későbbi, működő fizetési felületen 3 EUR értékűnek tartanád-e. Ez önkéntes vélemény, **nem vásárlás**. A kiadás ingyenes, fizetési kapu nincs beüzemelve, eladásról nincs adat. Kérlek, ne ossz meg valódi naplót, személyes vagy banki adatot.
 
